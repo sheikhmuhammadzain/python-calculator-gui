@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.mydiv h1{
+ border: 1px solid #ff2 ;
+ background-color: aliceblue;
+ height: 10vh;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+}
+h1{
+    text-align: center;
+}
+.container{
+
+    height:10vh;
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+}
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
